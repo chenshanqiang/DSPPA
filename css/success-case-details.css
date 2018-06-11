@@ -1,0 +1,13 @@
+/*
+* @Author: Administrator
+* @Date:   2017-12-27 14:03:37
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-12-27 16:49:34
+*/
+
+.success-case-first .success-case-content-first .case-content-first article h4{color: #f00;}
+.success-case-first .success-case-content-first { background-color: #fff;}
+.success-case-first .success-case-content-first .case-content-first article main{color: #000;padding-bottom: 20px;}
+.success-case-first .success-case-content-first .case-content-first article main img{max-width:100%;margin:0px auto 20px auto;display: block;}
+.success-case-first .success-case-content-first .case-content-first article main p{line-height: 2em;text-indent: 2em;}
+.success-case-first .success-case-content-first .case-content-first article main span{display: block;margin:0px auto;min-width: 20px;text-align: center;}

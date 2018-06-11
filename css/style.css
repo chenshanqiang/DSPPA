@@ -1,0 +1,60 @@
+*{font-family:"Microsoft Yahei";margin: 0; padding: 0;}
+body {
+    color: #727272;
+    font-family: 'Microsoft YaHei';
+    font-size: 14px;
+    line-height: 24px;
+    background-color: #fbfafa;
+}
+ul,li,ol {
+    line-height: 24px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+/*标题*/
+.headline{
+	margin:7px auto 0px auto!important;
+	color: #000000;
+	text-align: center!important;
+}
+a:hover,a:focus {
+    text-decoration: none;
+    outline: none;
+}
+/* Header */
+#header .main-header {
+    min-height: 86px;
+    z-index: 9999;
+    width: 100%;
+    position: relative;
+    background-color:#FFF;
+    -webkit-box-shadow: 0 3px 3px -3px rgba(0,0,0,0.2);
+    box-shadow: 0 3px 3px -3px rgba(0,0,0,0.2);
+}
+header .main-header {
+    display: block;
+    position: relative;
+    text-align: left;
+}
+#header .main-header .headerOne{
+	height: 40px;
+	background-color:#737373;
+}
+#header .main-header .headerOne .col-lg-12{
+	color:#fff;
+	line-height:40px;
+}
+
+.logo {
+    height: 75px;
+}
+.logo h1 {
+    margin: 7px 0px 13px 0px;
+}
+
+
+
+
+
+

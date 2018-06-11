@@ -1,0 +1,21 @@
+/*
+* @Author: Administrator
+* @Date:   2017-12-18 11:24:13
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-12-27 09:44:42
+*/
+/* 左边新闻标题滚动*/
+.company-news .company-news-content .bcon .title{text-align: center;background-color: #008E8C;color: #fff;min-height: 50px;font-size: 25px;line-height: 50px;}
+.company-news .company-news-content .list_lh{ height:300px; overflow:hidden;background-color: #fff;}
+.company-news .company-news-content .list_lh li{ padding:10px;}
+.company-news .company-news-content .list_lh li a{ color:#444141;}
+.company-news .company-news-content .list_lh li a:hover{color:#000;font-size: 15px;}
+
+
+/* 新闻内容 */
+.company-news .company-news-content .news-content article>div>h4{color: #f00;}
+.company-news .company-news-content .news-content{ background-color: #fff;height: 100%;}
+.company-news .company-news-content .news-content article main{color: #000;}
+.company-news .company-news-content .news-content article main img{width: 100%;height: 100%;}
+.company-news .company-news-content .news-content article main p{text-indent: 2em;}
+.company-news .company-news-content .news-content article main span{display: block;margin:0px auto;min-width: 20px;text-align: center;}

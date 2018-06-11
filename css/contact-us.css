@@ -1,0 +1,10 @@
+/*
+* @Author: Administrator
+* @Date:   2017-12-21 10:48:30
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-12-21 13:52:02
+*/
+.content-one{min-height: 300px;padding: 50px 0px;}
+.content-one>div{text-align: center;height: 200px;}
+.content-one>div>div>h4{color: #000;}
+.content-one>div>span>i{color:#008E8C;}

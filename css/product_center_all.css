@@ -1,0 +1,58 @@
+.product div{
+	min-height: 300px;
+	display: table-cell;
+	vertical-align: middle;
+   	text-align: center;
+}
+.product div img{
+	max-height: 100%;
+}
+.product .introduction {
+	padding-top: 60px;
+	margin:0px auto;
+}
+#features>.row>div>p{
+	text-indent:2em;
+	line-height:2em;
+}
+#features>.row>div>p[class='title']{
+	margin-top: 10px;
+}
+#imgs{
+	height: 300px;
+}
+h3{
+	color: #000000;
+	min-width: 100px;
+	height: auto;
+	display: inline-block;
+}
+#detailed_parameters .row div{
+	padding-top: 10px;
+}
+.everypager_product{
+	margin:0px auto;
+	max-height: 100%;
+}
+.productone_features {
+	
+}
+.productone_features li {
+	line-height: 40px;
+}
+.titleone {
+	max-width: 437px;
+	margin: 0px auto;
+}
+@media screen and (max-width:1199px ) {
+	
+}
+@media screen and (max-width:991px ) {
+	.product .introduction{
+		margin-bottom: 40px;
+	}
+	.product{
+		height: auto;
+		margin-bottom: 30px;
+	}
+}

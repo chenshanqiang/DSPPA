@@ -1,0 +1,49 @@
+/* Responsive Media Queries */
+@media(max-width: 1199px) {
+	.menu{
+		margin-top: 85px!important;
+	}
+
+}
+@media (min-width: 768px) and (max-width: 979px)  {
+	.navbar-nav {
+    	float: none;
+	}
+	.navbar-collapse .collapse {
+    	height: auto !important;
+    	overflow: visible !important;
+    	padding-bottom: 0;
+	}
+}
+@media (min-width: 980px) {
+	nav .menu {
+    	float: right !important;
+	}
+	.menu > ul li {
+    	float: left;
+	}
+	.menu ul>li>a {
+   		 padding: 34px 18px 31px 18px;
+	}
+}
+@media (max-width: 767px) {
+	.navbar-nav {
+    	float: none;
+	}
+	.navbar-collapse .collapse {
+    	height: auto !important;
+    	overflow: visible !important;
+    	padding-bottom: 0;
+	}
+}
+@media (max-width:768px) {
+  	.navbar-nav {
+    	float: none;
+  	}
+	.navbar-collapse .collapse {
+    	height: auto !important;
+    	overflow: visible !important;
+    	padding-bottom: 0;
+  	}
+}
+
